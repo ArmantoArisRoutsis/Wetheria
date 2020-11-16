@@ -3,7 +3,7 @@
 }
 
 body{
-    background-color: teal;
+    background-image: linear-gradient(to right, rgb(12, 170, 170), rgb(200, 255, 255));
     color: rgb(255, 255, 255);
 }
 
